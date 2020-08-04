@@ -8,9 +8,9 @@ Place the API key in the api folder in place of "Your Api key"
 
 Then run the following commands in the after going to the downloaded folder location in command prompt
 
-"""
+```
 npm install
 
 npm start
 
-"""
+```
